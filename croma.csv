@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,Postal Code,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+871b7335,11/29/2024,12/5/2024,Same Day,72c8b3,Damini Dada,Corporate,India,Chennai,600001,c1d25dcc-0,Technology,Phones,Phones - Porro,838.99,2,0.3,126.78
+14d770c7,9/3/2024,9/6/2024,First Class,082a93,Aradhya Mahal,Corporate,India,Lucknow,226001,d3856d46-6,Furniture,Chairs,Chairs - Repellat,846.09,8,0.3,93.07
+82326bab,6/7/2025,6/10/2025,Standard Class,542cd7,Saira Chakrabarti,Home Office,India,Jaipur,302001,5e670f83-7,Office Supplies,Paper,Paper - Rem,2660.96,7,0,485.81
+1.32E+235,4/8/2025,4/11/2025,First Class,b9ac5b,Divit Balan,Corporate,India,Pune,411001,8002a13b-4,Office Supplies,Pens,Pens - Qui,3921.13,8,0.3,270.08
+ee968646,3/22/2025,3/29/2025,First Class,8b65b7,Akarsh Taneja,Corporate,India,Jaipur,302001,5818dd10-8,Technology,Phones,Phones - Harum,849.25,3,0.1,93.63
+b635a15a,9/3/2024,9/4/2024,Standard Class,f8687a,Navya Bali,Home Office,India,Hyderabad,500001,d5fe2c7a-e,Technology,Phones,Phones - Dolorum,1944.68,2,0,205.38
+3c17970c,2/26/2025,3/2/2025,Same Day,86ce28,Adira Gera,Consumer,India,Bengaluru,560001,1e526333-c,Furniture,Bookcases,Bookcases - Qui,162.16,1,0.3,21.22
+e6c2a2ce,8/20/2024,8/24/2024,First Class,45e12d,Azad Bhatt,Home Office,India,Delhi,110001,2d3a38f1-6,Furniture,Bookcases,Bookcases - Necessitatibus,1578.27,2,0.1,186.04
+14c4d45b,6/5/2025,6/9/2025,Same Day,3d5f73,Nehmat Kara,Corporate,India,Kolkata,700001,90240547-3,Furniture,Bookcases,Bookcases - Commodi,5941.35,7,0.2,586.99
+cc4fa175,5/23/2025,5/25/2025,Same Day,97ece0,Nirvaan Arora,Home Office,India,Ahmedabad,380001,7bb08f40-4,Office Supplies,Binders,Binders - Est,5523.59,7,0.2,712.82
+30f43b70,9/8/2024,9/13/2024,Standard Class,fc0c6f,Inaaya  Zachariah,Home Office,India,Mumbai,400001,6b04a427-7,Office Supplies,Binders,Binders - Non,5852.27,7,0,394.91
+97668a64,10/26/2024,10/31/2024,First Class,ff1347,Keya Butala,Consumer,India,Pune,411001,2b552f37-3,Technology,Phones,Phones - Repellat,4297.33,6,0.1,695.47
+d4cf4131,8/28/2024,8/29/2024,Second Class,407329,Jayan Sharaf,Home Office,India,Lucknow,226001,6f2d588d-1,Office Supplies,Binders,Binders - Ad,3900.73,4,0.1,773.3
+ee1e9cfd,6/9/2025,6/12/2025,Same Day,0bf340,Miraya Bhandari,Corporate,India,Delhi,110001,5de95073-e,Technology,Copiers,Copiers - Beatae,1492.55,4,0.1,163.46
+43270ec8,7/2/2024,7/4/2024,First Class,adb8ed,Reyansh Rajagopalan,Corporate,India,Delhi,110001,eae6f7b9-f,Office Supplies,Pens,Pens - Qui,3219.1,6,0.3,407.84
+9028b960,3/9/2025,3/12/2025,First Class,01ab0d,Arnav Kade,Corporate,India,Delhi,110001,b6651010-c,Technology,Copiers,Copiers - Harum,1081.05,2,0.2,138.65
+c12740e3,8/29/2024,9/5/2024,Same Day,e58886,Arhaan Sidhu,Corporate,India,Mumbai,400001,a19fdb42-5,Technology,Accessories,Accessories - Soluta,1497.76,6,0,187.68
+a9369d7f,1/19/2025,1/20/2025,Second Class,e59939,Aaina Sankaran,Home Office,India,Pune,411001,9c15d10d-5,Technology,Accessories,Accessories - Nihil,4414.65,8,0,962.26
+287d8092,3/22/2025,3/26/2025,First Class,7df5d1,Dhanush Doctor,Consumer,India,Delhi,110001,587d727b-e,Technology,Phones,Phones - Vitae,2904.77,8,0,436.41
+6bf9a14c,12/9/2024,12/12/2024,Standard Class,310326,Nayantara Deshmukh,Corporate,India,Ahmedabad,380001,a3cd41f9-e,Furniture,Chairs,Chairs - Sequi,3806.67,5,0.2,685.5
+13648f35,2/26/2025,3/1/2025,Second Class,9ed3c7,Gatik Loyal,Corporate,India,Kolkata,700001,b4d3ac83-8,Office Supplies,Paper,Paper - Illo,1117.68,10,0.2,56.15
+8374ad2c,7/3/2024,7/7/2024,First Class,8eb2b4,Piya Ram,Consumer,India,Delhi,110001,fcf0ed43-a,Office Supplies,Paper,Paper - Odit,1042.07,10,0.3,167.92
+03ec9384,5/5/2025,5/6/2025,Same Day,dbe8b2,Aradhya Ranganathan,Consumer,India,Ahmedabad,380001,e8238608-a,Office Supplies,Binders,Binders - Eveniet,9737.78,10,0.3,1478.46
+90977f99,5/30/2025,6/4/2025,Same Day,4998c1,Seher Loke,Corporate,India,Kolkata,700001,839d4888-c,Furniture,Chairs,Chairs - Reprehenderit,2873.03,4,0.1,426.37
+a44827eb,7/6/2024,7/9/2024,Standard Class,374eea,Samaira Gupta,Corporate,India,Ahmedabad,380001,867e2d87-9,Furniture,Chairs,Chairs - Enim,6287.18,9,0.2,262.33
+fa52b401,8/4/2024,8/5/2024,Same Day,3530a7,Shayak Chopra,Home Office,India,Ahmedabad,380001,899b6e6b-a,Technology,Accessories,Accessories - Tempore,915.21,1,0.1,202.78
+ab916d41,1/23/2025,1/30/2025,Same Day,41616e,Kavya Zachariah,Home Office,India,Bengaluru,560001,aa418a09-8,Office Supplies,Binders,Binders - Excepturi,6463.57,9,0.1,297.15
+a3e7cf9d,11/4/2024,11/8/2024,First Class,4bf817,Mishti Gopal,Consumer,India,Bengaluru,560001,3625f325-3,Furniture,Tables,Tables - Incidunt,2127.69,3,0.1,387.38
+120627c4,3/17/2025,3/23/2025,Standard Class,650924,Nakul Hayre,Consumer,India,Mumbai,400001,dcdf2fed-7,Technology,Phones,Phones - In,1088.75,6,0.2,164.91
+ac823786,4/19/2025,4/26/2025,First Class,c7f4a2,Dharmajan Mani,Consumer,India,Mumbai,400001,1f30abdc-1,Office Supplies,Binders,Binders - Cumque,2517.28,7,0.2,320.59
+42d93b48,5/21/2025,5/22/2025,Same Day,4847cc,Manjari Wali,Corporate,India,Hyderabad,500001,adb1d1e0-8,Office Supplies,Binders,Binders - Sint,2584.21,6,0,414.67
+0b3a4bf2,6/19/2024,6/26/2024,Second Class,d06ebc,Tarini Seshadri,Consumer,India,Chennai,600001,0c94fc85-2,Furniture,Bookcases,Bookcases - Sequi,1184.06,4,0.1,162.43
+29202f93,9/25/2024,9/26/2024,Second Class,298f85,Ehsaan Chaudhary,Home Office,India,Pune,411001,418d2ab3-b,Office Supplies,Pens,Pens - Nemo,849.74,3,0.2,153.13
+b660f4df,5/14/2025,5/20/2025,Standard Class,7d50e0,Yakshit Shan,Consumer,India,Bengaluru,560001,7cb478c4-a,Office Supplies,Binders,Binders - Cum,6327.22,8,0.3,271.84
+06de2de7,8/24/2024,8/26/2024,Standard Class,e4fa90,Vanya Jha,Home Office,India,Mumbai,400001,f83ce66a-6,Technology,Accessories,Accessories - Rem,3075.64,7,0.1,279.75
+1cec4e58,9/11/2024,9/16/2024,Second Class,75ce08,Bhavin Roy,Home Office,India,Hyderabad,500001,a569fde9-0,Furniture,Chairs,Chairs - Eveniet,652.14,1,0.3,36.01
+70ee8219,6/29/2024,7/4/2024,First Class,59c7f8,Gatik Krish,Home Office,India,Bengaluru,560001,8d574ad3-f,Technology,Copiers,Copiers - Voluptas,4016.26,6,0,817.16
+ecb4248c,5/18/2025,5/23/2025,Second Class,177455,Miraya Bora,Corporate,India,Chennai,600001,a54770a9-e,Office Supplies,Pens,Pens - Soluta,3600.32,4,0.1,707.5
+abefa4b4,9/28/2024,10/3/2024,Second Class,298890,Reyansh Lad,Corporate,India,Ahmedabad,380001,c51051b2-4,Furniture,Chairs,Chairs - Explicabo,2377.7,4,0.1,318.67
+fd20bbb0,11/14/2024,11/16/2024,First Class,c65e97,Trisha Manda,Corporate,India,Hyderabad,500001,3791de78-b,Office Supplies,Paper,Paper - Occaecati,6016.52,10,0.3,223.07
+fa2dc089,11/18/2024,11/19/2024,First Class,1e3908,Vaibhav Koshy,Home Office,India,Kolkata,700001,b30aef37-4,Office Supplies,Pens,Pens - Illum,4520.33,8,0.2,739.41
+973eddc7,10/5/2024,10/8/2024,Standard Class,b6c44e,Hansh Thakkar,Home Office,India,Bengaluru,560001,c17cbb4f-0,Technology,Copiers,Copiers - Fuga,2105.9,10,0,496.2
+2a166b4a,6/6/2025,6/7/2025,First Class,0a9671,Kismat Jhaveri,Consumer,India,Chennai,600001,d9d0136d-a,Furniture,Bookcases,Bookcases - Ratione,7289.6,9,0.1,708.82
+5bc728b7,3/15/2025,3/21/2025,Second Class,8649cd,Kiaan Shukla,Consumer,India,Pune,411001,de05352b-8,Office Supplies,Pens,Pens - Eligendi,4243.31,6,0.1,895.27
+3650bd10,5/3/2025,5/4/2025,First Class,31a02c,Neelofar Sarraf,Corporate,India,Kolkata,700001,4398f6c0-7,Office Supplies,Paper,Paper - Animi,4929.86,9,0,360.81
+e048f3d6,5/20/2025,5/22/2025,First Class,dfbd4c,Lavanya Sidhu,Corporate,India,Jaipur,302001,c2674514-2,Furniture,Tables,Tables - Est,444.91,1,0.1,68.68
+3c1153d3,8/21/2024,8/23/2024,First Class,410376,Anika Gade,Home Office,India,Jaipur,302001,1fbf9e8a-a,Office Supplies,Paper,Paper - Nisi,234.99,1,0,22.17
+6458f8f9,12/21/2024,12/23/2024,First Class,105e3b,Neelofar Roy,Corporate,India,Hyderabad,500001,91d7b3b0-9,Office Supplies,Paper,Paper - Nulla,1397.4,2,0.1,207.95
+8527c47d,5/31/2025,6/6/2025,First Class,0eb573,Bhamini Sura,Consumer,India,Mumbai,400001,73860f7e-0,Furniture,Bookcases,Bookcases - Sed,1780.31,2,0.2,298.09
+2a6d1c64,7/1/2024,7/6/2024,Standard Class,3402,Jhanvi Divan,Corporate,India,Kolkata,700001,6d3b70a2-6,Office Supplies,Paper,Paper - Accusantium,4672.55,5,0.1,415.92
+67ab92b0,2/1/2025,2/5/2025,First Class,592d06,Hrishita Varghese,Consumer,India,Pune,411001,d23c2817-1,Technology,Copiers,Copiers - Iusto,2534.5,3,0.1,416.55
+8192f0f9,8/9/2024,8/16/2024,First Class,1a2573,Mannat Talwar,Consumer,India,Hyderabad,500001,2695fd7a-a,Technology,Phones,Phones - Harum,2731.69,10,0,506.14
+e590ef0b,3/21/2025,3/26/2025,Second Class,c874d2,Raunak Chaudhari,Consumer,India,Delhi,110001,f8b6e6ba-7,Office Supplies,Pens,Pens - Tempora,3276.33,6,0.2,604.73
+63e7e396,5/3/2025,5/4/2025,First Class,4ac997,Shayak Mammen,Home Office,India,Lucknow,226001,4cd309f0-b,Furniture,Tables,Tables - Aspernatur,3461.34,5,0.3,185.55
+2a7699a7,9/3/2024,9/4/2024,First Class,0218ce,Jayan Mahal,Corporate,India,Kolkata,700001,f12b2e09-8,Office Supplies,Pens,Pens - At,4281.36,5,0.3,385.59
+83c7f046,8/3/2024,8/5/2024,Second Class,0517b9,Riya Saraf,Corporate,India,Delhi,110001,f1a4b486-9,Technology,Phones,Phones - Velit,1031.83,9,0.2,139.81
+687cdd05,9/24/2024,9/28/2024,Second Class,fb97b4,Prisha Sen,Corporate,India,Chennai,600001,672d67db-e,Furniture,Tables,Tables - Harum,414.12,1,0.2,76.28
+2f6cea39,10/6/2024,10/11/2024,First Class,5d6fd0,Sara Iyer,Corporate,India,Mumbai,400001,25f1dd1d-b,Technology,Phones,Phones - Accusamus,912.66,1,0.1,76.15
+0e64339c,6/29/2024,7/2/2024,Same Day,bdffc1,Anika Chahal,Home Office,India,Hyderabad,500001,373d230f-e,Technology,Phones,Phones - In,1815.08,9,0.3,298.39
+3739eadb,1/6/2025,1/12/2025,Same Day,6fd950,Shanaya Contractor,Home Office,India,Mumbai,400001,7302d197-c,Office Supplies,Pens,Pens - Temporibus,2436.13,10,0.3,162.67
+fe2967aa,9/11/2024,9/17/2024,Second Class,c2e4c0,Armaan Sarna,Home Office,India,Chennai,600001,d5edf568-2,Technology,Phones,Phones - Voluptate,2023.87,4,0.2,125.47
+bc1986ec,10/17/2024,10/21/2024,Second Class,fa9740,Urvi Jhaveri,Home Office,India,Pune,411001,b8e9b778-e,Office Supplies,Binders,Binders - Quis,6102.4,7,0,401.24
+55636ae0,4/8/2025,4/11/2025,First Class,8d1dcf,Neysa Dewan,Consumer,India,Mumbai,400001,fbe394f9-8,Office Supplies,Pens,Pens - Molestiae,8136.74,10,0.2,773.96
+752b9958,5/12/2025,5/18/2025,Same Day,42caaf,Mohanlal Dugal,Consumer,India,Chennai,600001,5ea37793-0,Technology,Copiers,Copiers - Quisquam,2390.17,6,0.3,349.49
+df8ca7ce,6/8/2025,6/13/2025,Second Class,b3a32e,Riaan Desai,Consumer,India,Kolkata,700001,4c3a86ec-3,Furniture,Chairs,Chairs - Error,574.52,1,0,98.46
+a3af3b17,8/2/2024,8/5/2024,Same Day,430470,Umang Saini,Consumer,India,Jaipur,302001,69148988-9,Office Supplies,Pens,Pens - Culpa,2679.17,5,0.3,98.09
+09b67455,7/8/2024,7/13/2024,Second Class,e79189,Misha Konda,Home Office,India,Bengaluru,560001,e0e09eae-0,Office Supplies,Binders,Binders - Praesentium,2738.49,5,0,227.47
+57146183,6/11/2025,6/15/2025,Same Day,a6eb51,Samar Sahni,Home Office,India,Pune,411001,7dfcd5f4-2,Office Supplies,Paper,Paper - Voluptatem,8079.12,10,0,1184.16
+1ab47d10,12/5/2024,12/8/2024,Standard Class,1857cd,Emir Sant,Consumer,India,Ahmedabad,380001,92604df8-3,Furniture,Tables,Tables - Omnis,505.53,4,0.2,20.87
+f3cdb7ff,10/23/2024,10/28/2024,Second Class,fbc66c,Onkar Kota,Home Office,India,Mumbai,400001,1ec7b20e-7,Furniture,Chairs,Chairs - Ducimus,667.01,3,0.3,50.52
+8fcf9920,10/7/2024,10/9/2024,Standard Class,633238,Kanav Bhargava,Consumer,India,Jaipur,302001,908089c8-c,Furniture,Chairs,Chairs - Repellat,3218.28,5,0.3,386.62
+52fe66cc,6/14/2025,6/16/2025,Same Day,7ebd8e,Dharmajan Chowdhury,Corporate,India,Hyderabad,500001,86429864-e,Office Supplies,Binders,Binders - Facilis,3607.53,4,0.3,581.78
+b4bb91f6,3/15/2025,3/20/2025,Second Class,097c16,Kiara Thaker,Corporate,India,Lucknow,226001,265f1d01-2,Office Supplies,Paper,Paper - Officia,3116.6,8,0.2,404.93
+7f9ad4e0,2/8/2025,2/15/2025,Same Day,85fe9a,Yuvaan Srivastava,Consumer,India,Bengaluru,560001,ec6a168e-f,Office Supplies,Paper,Paper - Nam,646.12,6,0.1,94.92
+96427091,7/24/2024,7/29/2024,Standard Class,4668ff,Ritvik Acharya,Home Office,India,Jaipur,302001,8562d314-3,Technology,Copiers,Copiers - Labore,1563.08,9,0.2,176.58
+d2a070dc,4/29/2025,5/2/2025,Second Class,cc6527,Hrishita Dasgupta,Consumer,India,Hyderabad,500001,9f9db0ea-1,Office Supplies,Paper,Paper - Ex,2403.64,5,0,129.99
+2fbba815,10/19/2024,10/23/2024,Standard Class,85ee09,Madhav Dugar,Home Office,India,Hyderabad,500001,074f1bdd-0,Technology,Phones,Phones - Eum,4235.21,9,0.3,694.84
+8ed2711c,1/8/2025,1/11/2025,Second Class,3713d2,Eshani Raju,Corporate,India,Pune,411001,4a0aa2b2-e,Office Supplies,Paper,Paper - Distinctio,3646.81,5,0,447.06
+9b5498c4,12/20/2024,12/24/2024,Standard Class,4b59d0,Tanya Contractor,Home Office,India,Mumbai,400001,cda75003-4,Furniture,Bookcases,Bookcases - Ullam,2383.02,5,0.1,274.55
+30ffda8c,1/28/2025,1/31/2025,Standard Class,ef5e55,Anika Sridhar,Home Office,India,Jaipur,302001,cfb2ecb8-7,Office Supplies,Binders,Binders - Cum,5765.01,8,0.2,824.98
+191e7c0d,6/27/2024,6/30/2024,Second Class,fffd0b,Ivan Dash,Corporate,India,Hyderabad,500001,a23d643f-6,Furniture,Bookcases,Bookcases - Quasi,2867.28,6,0,484.09
+559a3ec0,6/1/2025,6/8/2025,First Class,6e7120,Ishita Rau,Consumer,India,Jaipur,302001,4e8dd7d4-e,Office Supplies,Paper,Paper - Laudantium,603.67,2,0.1,109.76
+3a3c80bb,4/15/2025,4/17/2025,First Class,773b21,Kanav Hayer,Home Office,India,Mumbai,400001,34fa7757-a,Office Supplies,Binders,Binders - Quibusdam,1395.97,6,0,133.63
+7b874550,10/19/2024,10/24/2024,Same Day,8121b2,Zara Mandal,Consumer,India,Lucknow,226001,6266a324-5,Office Supplies,Paper,Paper - Blanditiis,3494.66,9,0.2,242.01
+a5f2c36a,9/20/2024,9/27/2024,First Class,9b988a,Nishith Tak,Corporate,India,Bengaluru,560001,1ceb8895-e,Office Supplies,Paper,Paper - Veritatis,404.84,1,0,36.37
+fc4d39e4,5/22/2025,5/28/2025,First Class,e0fc59,Divit Datta,Home Office,India,Jaipur,302001,637c3212-7,Office Supplies,Paper,Paper - Sit,7463.82,8,0.3,701.12
+c7a310b3,6/6/2025,6/12/2025,Same Day,5472f2,Raunak Korpal,Consumer,India,Lucknow,226001,6eab835f-f,Office Supplies,Binders,Binders - Reiciendis,3621.09,4,0.1,478.52
+e9168f6f,8/8/2024,8/14/2024,Standard Class,c7c396,Amira Sengupta,Corporate,India,Bengaluru,560001,0835cc31-c,Technology,Copiers,Copiers - Consectetur,1893.36,7,0.3,321.55
+886b5434,9/30/2024,10/1/2024,Standard Class,9add65,Piya Ramachandran,Corporate,India,Chennai,600001,6f305ae0-d,Furniture,Chairs,Chairs - Nam,2360.18,5,0.1,454.84
+906f76e3,4/24/2025,4/28/2025,Second Class,0b1407,Hrishita Barad,Consumer,India,Hyderabad,500001,397731d8-0,Office Supplies,Binders,Binders - Fuga,784.38,1,0.3,117.96
+f19740af,2/28/2025,3/4/2025,Same Day,4dfabb,Urvi Sawhney,Corporate,India,Ahmedabad,380001,9416cb7b-4,Office Supplies,Binders,Binders - Tempora,426.86,2,0.3,49.71
+9c461eaf,5/9/2025,5/10/2025,Second Class,b844b4,Rati Devan,Home Office,India,Chennai,600001,9f09e306-f,Office Supplies,Pens,Pens - Commodi,4767.1,8,0.2,616.15
+2904ea93,11/29/2024,12/4/2024,Standard Class,eab5d0,Chirag Chaudhari,Consumer,India,Delhi,110001,856bb7cb-1,Office Supplies,Binders,Binders - Sint,845.49,7,0,182.02
+2873412c,7/18/2024,7/24/2024,Same Day,83b1cd,Lavanya Srinivas,Home Office,India,Ahmedabad,380001,39314b3b-d,Furniture,Tables,Tables - Ut,1383.65,2,0.1,161.1
+6973d909,4/3/2025,4/4/2025,Second Class,37f84a,Vaibhav Sidhu,Consumer,India,Delhi,110001,4174c181-e,Office Supplies,Paper,Paper - Velit,8390.8,10,0,952.04
+c9681956,7/17/2024,7/24/2024,Second Class,67ad32,Krish Devi,Corporate,India,Kolkata,700001,e697a673-e,Technology,Accessories,Accessories - Iusto,2744.64,3,0.2,390.76
+fca7edd8,8/7/2024,8/14/2024,Standard Class,60f0c6,Divyansh Ganguly,Consumer,India,Pune,411001,15bc3fe3-3,Office Supplies,Pens,Pens - Nihil,4037.23,7,0,348.19
+cd1d3ac9,8/1/2024,8/4/2024,Second Class,be9f9a,Anahita Choudhary,Home Office,India,Delhi,110001,ef1c55e2-c,Furniture,Bookcases,Bookcases - Atque,457.6,2,0.2,88.87
+eb61df9f,2/5/2025,2/7/2025,Same Day,2.76E+10,Inaaya  Borra,Corporate,India,Lucknow,226001,ee7c85fb-a,Technology,Accessories,Accessories - Ipsam,2845.81,4,0,693.19
+4ccbe14b,6/30/2024,7/6/2024,Standard Class,20bed4,Krish Dey,Corporate,India,Pune,411001,f43c4c23-5,Furniture,Chairs,Chairs - Laborum,9628.59,10,0.1,1200.43
